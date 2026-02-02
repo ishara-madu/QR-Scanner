@@ -1,0 +1,1036 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [androidx.camera:camera-video:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/09608e86e0441f2a15bea70fa80c8526/transformed/camera-video-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-view:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/62ec5f2d4823d069a66c1055739bb16d/transformed/camera-view-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-lifecycle:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/455b2ca1665fd40117ef344b3e7f737f/transformed/camera-lifecycle-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-core:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/0b9641fba2e378d82ddb7a74336b0f24/transformed/camera-core-1.4.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-ads:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/14aeef61bc3ee7c9fe058849233e012f/transformed/play-services-ads-23.6.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:barcode-scanning-common:17.0.0] /Users/ishara/.gradle/caches/8.9/transforms/c19a5de92258ee19cde9b6ce59283a76/transformed/barcode-scanning-common-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/ishara/.gradle/caches/8.9/transforms/e4d4cbc364f7a6b6d112d7dd73098f4c/transformed/vision-common-17.3.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/ishara/.gradle/caches/8.9/transforms/c55131a3880b0ce67baa3e429aa8e9a2/transformed/play-services-appset-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/ishara/.gradle/caches/8.9/transforms/65147191208140426ab675a0ffa85528/transformed/play-services-base-18.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mlkit:vision-interfaces:16.3.0] /Users/ishara/.gradle/caches/8.9/transforms/40191606c68e6d053080610da429c90c/transformed/vision-interfaces-16.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/ishara/.gradle/caches/8.9/transforms/1d9ef3d364e2d424e22dde2682eabb74/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:17:1-112:12
+MERGED from [com.google.android.gms:play-services-ads-base:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/11dc701bc141f1c921d0338daf0e1745/transformed/play-services-ads-base-23.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/ishara/.gradle/caches/8.9/transforms/b4766ab1be19d566def6055e0fb59012/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/ishara/.gradle/caches/8.9/transforms/23bb66e42a696bc91c30b5d6e39e8398/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.ump:user-messaging-platform:3.0.0] /Users/ishara/.gradle/caches/8.9/transforms/fd33d1d3b194fc11fd88f5b40bbc9d27/transformed/user-messaging-platform-3.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/ishara/.gradle/caches/8.9/transforms/2923cfda4a5f6bb423ab3e99570eb182/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/ishara/.gradle/caches/8.9/transforms/2b39866b02fac8d30a46e78f90d46188/transformed/play-services-basement-18.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.browser:browser:1.8.0] /Users/ishara/.gradle/caches/8.9/transforms/596c912c77bd001664e60cdc0e553ccc/transformed/browser-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.webkit:webkit:1.11.0-alpha02] /Users/ishara/.gradle/caches/8.9/transforms/a2e79ae3eecbb870f26b0851661d501c/transformed/webkit-1.11.0-alpha02/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-permissions:0.36.0] /Users/ishara/.gradle/caches/8.9/transforms/ee03315b7b1185f5272cb64ec9e996ab/transformed/accompanist-permissions-0.36.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/ishara/.gradle/caches/8.9/transforms/f27a3a1ab1ed7260b0beb12aea65b6c9/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/ishara/.gradle/caches/8.9/transforms/461701f60fd664f467dfc363ecc97d25/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/ishara/.gradle/caches/8.9/transforms/bb7a29bdd55b6a03fca374a1a9b5d27e/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.3] /Users/ishara/.gradle/caches/8.9/transforms/2b2cc2a8405269af0ad37547a7b03c31/transformed/activity-1.9.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] /Users/ishara/.gradle/caches/8.9/transforms/518cfb3fe8c2e4cdb279a3af4718a432/transformed/activity-ktx-1.9.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/a64a41dc1e9afc9d82c67fab61b56a5a/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/768e4570c40dc4388c1d00951748d9d3/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/cf3d40137376c6672146f78d7ec1ecb4/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/027abdde00a39e25f4adbebf1baf9070/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/7651a00300c6c579cf74ff5b49ba8fe1/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/a3e1b1bcc2891f15db50badcdaefe3ad/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/ed144e56b237c7cbce5ab287d657d840/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/bd82356488b01c3d84d5b8a4a218480a/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/6eeb9f9df177edb2e638a5c7d29cebd0/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/5e9c1818a04661e0ece2d4d326cef8bc/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/139fc018f5077215bd8a7c67e3e49069/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/b4b851c956b8edfa373bc56feecc5378/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/af75e651d24ca2ff7cafb5e320d9c442/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/21a44a0638c6cf9d65269dbebde9f928/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/b9cf5ee59110f6690e237ac9e777342c/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/c0c14f7c4975332a3dc89c67af4fb9ef/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.9.3] /Users/ishara/.gradle/caches/8.9/transforms/aab6fb0570ff18773e86c25658085a24/transformed/activity-compose-1.9.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/712f421c61754367e4d6cf63009d18bb/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/d79cabeef606013cbf435f9c4d61626e/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/96e31cc370fff23d0c3567550e360399/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/6854dad054351a1f8cd2e1f47301b18d/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/5db297ecfadc58c327f2d33402346e7f/transformed/lifecycle-service-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/0800786548b3c1d091ebf58f7c846862/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/a458e504708b9a5bb4a66a551f1972a8/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/8ae0591d533999c1e22ddbd3d67acae2/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/f1eb18f8057edb56d8bb95197a1a289d/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/c25d9cf9de889fc21511c3644b7f75b6/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ishara/.gradle/caches/8.9/transforms/1a69734368ec6a1f63d8f8eb1b877b37/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ishara/.gradle/caches/8.9/transforms/6c543351579274f80d7d6cf3bfc2b5bb/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/838d4e6c668a6d2d0b7961ee7760e649/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/9c66d3c5d783df9582f8fa5e905cad13/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/d73041097d371ca9b26b1c0d10afdc69/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/0437cd831b7ed6aa6a87b006f814e28f/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/3c4ec469946c7b81ab207899090b6324/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/3c410fe1e69573a0b8e785ff4dfcbd5f/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/eeaf596ece642dd535bcd762507dbd64/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/4f226f0b34b50c1efc603e741e183b25/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/4464ab42c12a92e91fb2b7bee61158ba/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/ishara/.gradle/caches/8.9/transforms/c0d826a91164abb28b9b3240ffe1a735/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/d397a60aa5aa3dffd207504e7e820d2d/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/0bb915bd5a417fade4cb397b968067e1/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ishara/.gradle/caches/8.9/transforms/f7198f22018cde463532d6269d8a5b8f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ishara/.gradle/caches/8.9/transforms/eea5e33514b84aebf650711044451d79/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/6ac60418e596be2c205b4c9971d5a6fc/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/f38304e49d67a0178184c7d98047e977/transformed/core-1.15.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/ishara/.gradle/caches/8.9/transforms/c615b36fb44d7ab1db9c143e2b70a63b/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/ishara/.gradle/caches/8.9/transforms/9fbc9288b684222915d64f2a8a45f4fb/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/9c69b26d30a5d64513b2b93cc8e6124b/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/4491d86485abbca970ccb46bc4d5759a/transformed/core-ktx-1.15.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/e1641eccc5f560591dc17797344c1132/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/6b71d1952c48eecb6f3ae6793bf4cc99/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/ishara/.gradle/caches/8.9/transforms/ab69e7e0fc58b1f81b32067a2493f30b/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ishara/.gradle/caches/8.9/transforms/25cac9d896d2c489ba85dc4b6ba9d0b6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/ishara/.gradle/caches/8.9/transforms/23917f27bfa554f0706338fc6543041e/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] /Users/ishara/.gradle/caches/8.9/transforms/6e305a4d9a285453a763928968bfa156/transformed/tracing-ktx-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/ishara/.gradle/caches/8.9/transforms/11959784975c9b05b08a0eb74d94e278/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/ishara/.gradle/caches/8.9/transforms/ee52b7040b7580ec24a10dbb9607d4e1/transformed/transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/ishara/.gradle/caches/8.9/transforms/d6515091811fb3b55cfd05b05fec4f64/transformed/firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/ishara/.gradle/caches/8.9/transforms/623e5d5861f23b74c9219d7280fbb489/transformed/firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/3651dc072d3c4a8f2c181a3838be0f24/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ishara/.gradle/caches/8.9/transforms/e818d45a64f7b35b5bc6cd47dd054e23/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/ishara/.gradle/caches/8.9/transforms/d2e7e65177852a82ed6ab0fa938d4352/transformed/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ishara/.gradle/caches/8.9/transforms/de02009a10e601c4c11340c69fef2216/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/a280cddc35ac99edb7a5d48a8ea656d0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/ishara/.gradle/caches/8.9/transforms/f426afa2872b4f5aa6e7a3209a7f692e/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/ishara/.gradle/caches/8.9/transforms/59992a1aafe9631d20a74c11bc7c981e/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/ishara/.gradle/caches/8.9/transforms/bf28f523c50aa9cf323e84f94adb3e93/transformed/image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+	package
+		INJECTED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:5:5-7:36
+	android:required
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:7:9-33
+	android:name
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:6:9-47
+uses-permission#android.permission.CAMERA
+ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:10:22-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/ishara/.gradle/caches/8.9/transforms/23bb66e42a696bc91c30b5d6e39e8398/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/ishara/.gradle/caches/8.9/transforms/23bb66e42a696bc91c30b5d6e39e8398/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:11:22-64
+application
+ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:13:5-42:19
+INJECTED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:13:5-42:19
+MERGED from [androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/0b9641fba2e378d82ddb7a74336b0f24/transformed/camera-core-1.4.0/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/0b9641fba2e378d82ddb7a74336b0f24/transformed/camera-core-1.4.0/AndroidManifest.xml:23:5-34:19
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/ishara/.gradle/caches/8.9/transforms/e4d4cbc364f7a6b6d112d7dd73098f4c/transformed/vision-common-17.3.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/ishara/.gradle/caches/8.9/transforms/e4d4cbc364f7a6b6d112d7dd73098f4c/transformed/vision-common-17.3.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/ishara/.gradle/caches/8.9/transforms/c55131a3880b0ce67baa3e429aa8e9a2/transformed/play-services-appset-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/ishara/.gradle/caches/8.9/transforms/c55131a3880b0ce67baa3e429aa8e9a2/transformed/play-services-appset-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/ishara/.gradle/caches/8.9/transforms/65147191208140426ab675a0ffa85528/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/ishara/.gradle/caches/8.9/transforms/65147191208140426ab675a0ffa85528/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/ishara/.gradle/caches/8.9/transforms/1d9ef3d364e2d424e22dde2682eabb74/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/ishara/.gradle/caches/8.9/transforms/1d9ef3d364e2d424e22dde2682eabb74/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:70:5-110:19
+MERGED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:70:5-110:19
+MERGED from [com.google.android.gms:play-services-ads-base:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/11dc701bc141f1c921d0338daf0e1745/transformed/play-services-ads-base-23.6.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/11dc701bc141f1c921d0338daf0e1745/transformed/play-services-ads-base-23.6.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/ishara/.gradle/caches/8.9/transforms/b4766ab1be19d566def6055e0fb59012/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/ishara/.gradle/caches/8.9/transforms/b4766ab1be19d566def6055e0fb59012/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/ishara/.gradle/caches/8.9/transforms/2923cfda4a5f6bb423ab3e99570eb182/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/ishara/.gradle/caches/8.9/transforms/2923cfda4a5f6bb423ab3e99570eb182/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/ishara/.gradle/caches/8.9/transforms/2b39866b02fac8d30a46e78f90d46188/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/ishara/.gradle/caches/8.9/transforms/2b39866b02fac8d30a46e78f90d46188/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/b9cf5ee59110f6690e237ac9e777342c/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/b9cf5ee59110f6690e237ac9e777342c/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/c0c14f7c4975332a3dc89c67af4fb9ef/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/c0c14f7c4975332a3dc89c67af4fb9ef/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/d79cabeef606013cbf435f9c4d61626e/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/d79cabeef606013cbf435f9c4d61626e/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/96e31cc370fff23d0c3567550e360399/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/96e31cc370fff23d0c3567550e360399/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/f38304e49d67a0178184c7d98047e977/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/f38304e49d67a0178184c7d98047e977/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/ishara/.gradle/caches/8.9/transforms/9fbc9288b684222915d64f2a8a45f4fb/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/ishara/.gradle/caches/8.9/transforms/9fbc9288b684222915d64f2a8a45f4fb/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ishara/.gradle/caches/8.9/transforms/25cac9d896d2c489ba85dc4b6ba9d0b6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ishara/.gradle/caches/8.9/transforms/25cac9d896d2c489ba85dc4b6ba9d0b6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ishara/.gradle/caches/8.9/transforms/e818d45a64f7b35b5bc6cd47dd054e23/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ishara/.gradle/caches/8.9/transforms/e818d45a64f7b35b5bc6cd47dd054e23/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/ishara/.gradle/caches/8.9/transforms/d2e7e65177852a82ed6ab0fa938d4352/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/ishara/.gradle/caches/8.9/transforms/d2e7e65177852a82ed6ab0fa938d4352/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/ishara/.gradle/caches/8.9/transforms/bf28f523c50aa9cf323e84f94adb3e93/transformed/image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/ishara/.gradle/caches/8.9/transforms/bf28f523c50aa9cf323e84f94adb3e93/transformed/image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:extractNativeLibs
+		INJECTED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/f38304e49d67a0178184c7d98047e977/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:18:9-41
+	android:fullBackupContent
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:16:9-54
+	android:roundIcon
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:19:9-54
+	tools:targetApi
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:22:9-29
+	android:icon
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:21:9-51
+	android:dataExtractionRules
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:15:9-65
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:25:9-27:69
+	android:value
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:27:13-67
+	android:name
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:26:13-69
+meta-data#com.google.mlkit.vision.DEPENDENCIES
+ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:30:9-32:39
+	android:value
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:31:13-64
+activity#com.pixeleye.qrscanner.MainActivity
+ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:33:9-41:20
+	android:exported
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:35:13-36
+	android:theme
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:36:13-55
+	android:name
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:34:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml
+MERGED from [androidx.camera:camera-video:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/09608e86e0441f2a15bea70fa80c8526/transformed/camera-video-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-video:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/09608e86e0441f2a15bea70fa80c8526/transformed/camera-video-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-view:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/62ec5f2d4823d069a66c1055739bb16d/transformed/camera-view-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-view:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/62ec5f2d4823d069a66c1055739bb16d/transformed/camera-view-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/455b2ca1665fd40117ef344b3e7f737f/transformed/camera-lifecycle-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/455b2ca1665fd40117ef344b3e7f737f/transformed/camera-lifecycle-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/0b9641fba2e378d82ddb7a74336b0f24/transformed/camera-core-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/0b9641fba2e378d82ddb7a74336b0f24/transformed/camera-core-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-ads:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/14aeef61bc3ee7c9fe058849233e012f/transformed/play-services-ads-23.6.0/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/14aeef61bc3ee7c9fe058849233e012f/transformed/play-services-ads-23.6.0/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:barcode-scanning-common:17.0.0] /Users/ishara/.gradle/caches/8.9/transforms/c19a5de92258ee19cde9b6ce59283a76/transformed/barcode-scanning-common-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:barcode-scanning-common:17.0.0] /Users/ishara/.gradle/caches/8.9/transforms/c19a5de92258ee19cde9b6ce59283a76/transformed/barcode-scanning-common-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/ishara/.gradle/caches/8.9/transforms/e4d4cbc364f7a6b6d112d7dd73098f4c/transformed/vision-common-17.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/ishara/.gradle/caches/8.9/transforms/e4d4cbc364f7a6b6d112d7dd73098f4c/transformed/vision-common-17.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/ishara/.gradle/caches/8.9/transforms/c55131a3880b0ce67baa3e429aa8e9a2/transformed/play-services-appset-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/ishara/.gradle/caches/8.9/transforms/c55131a3880b0ce67baa3e429aa8e9a2/transformed/play-services-appset-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/ishara/.gradle/caches/8.9/transforms/65147191208140426ab675a0ffa85528/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/ishara/.gradle/caches/8.9/transforms/65147191208140426ab675a0ffa85528/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.mlkit:vision-interfaces:16.3.0] /Users/ishara/.gradle/caches/8.9/transforms/40191606c68e6d053080610da429c90c/transformed/vision-interfaces-16.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-interfaces:16.3.0] /Users/ishara/.gradle/caches/8.9/transforms/40191606c68e6d053080610da429c90c/transformed/vision-interfaces-16.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/ishara/.gradle/caches/8.9/transforms/1d9ef3d364e2d424e22dde2682eabb74/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/ishara/.gradle/caches/8.9/transforms/1d9ef3d364e2d424e22dde2682eabb74/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/11dc701bc141f1c921d0338daf0e1745/transformed/play-services-ads-base-23.6.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/11dc701bc141f1c921d0338daf0e1745/transformed/play-services-ads-base-23.6.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/ishara/.gradle/caches/8.9/transforms/b4766ab1be19d566def6055e0fb59012/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/ishara/.gradle/caches/8.9/transforms/b4766ab1be19d566def6055e0fb59012/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/ishara/.gradle/caches/8.9/transforms/23bb66e42a696bc91c30b5d6e39e8398/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/ishara/.gradle/caches/8.9/transforms/23bb66e42a696bc91c30b5d6e39e8398/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:3.0.0] /Users/ishara/.gradle/caches/8.9/transforms/fd33d1d3b194fc11fd88f5b40bbc9d27/transformed/user-messaging-platform-3.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:3.0.0] /Users/ishara/.gradle/caches/8.9/transforms/fd33d1d3b194fc11fd88f5b40bbc9d27/transformed/user-messaging-platform-3.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/ishara/.gradle/caches/8.9/transforms/2923cfda4a5f6bb423ab3e99570eb182/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/ishara/.gradle/caches/8.9/transforms/2923cfda4a5f6bb423ab3e99570eb182/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/ishara/.gradle/caches/8.9/transforms/2b39866b02fac8d30a46e78f90d46188/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/ishara/.gradle/caches/8.9/transforms/2b39866b02fac8d30a46e78f90d46188/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [androidx.browser:browser:1.8.0] /Users/ishara/.gradle/caches/8.9/transforms/596c912c77bd001664e60cdc0e553ccc/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] /Users/ishara/.gradle/caches/8.9/transforms/596c912c77bd001664e60cdc0e553ccc/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.11.0-alpha02] /Users/ishara/.gradle/caches/8.9/transforms/a2e79ae3eecbb870f26b0851661d501c/transformed/webkit-1.11.0-alpha02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.11.0-alpha02] /Users/ishara/.gradle/caches/8.9/transforms/a2e79ae3eecbb870f26b0851661d501c/transformed/webkit-1.11.0-alpha02/AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-permissions:0.36.0] /Users/ishara/.gradle/caches/8.9/transforms/ee03315b7b1185f5272cb64ec9e996ab/transformed/accompanist-permissions-0.36.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-permissions:0.36.0] /Users/ishara/.gradle/caches/8.9/transforms/ee03315b7b1185f5272cb64ec9e996ab/transformed/accompanist-permissions-0.36.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/ishara/.gradle/caches/8.9/transforms/f27a3a1ab1ed7260b0beb12aea65b6c9/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/ishara/.gradle/caches/8.9/transforms/f27a3a1ab1ed7260b0beb12aea65b6c9/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/ishara/.gradle/caches/8.9/transforms/461701f60fd664f467dfc363ecc97d25/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/ishara/.gradle/caches/8.9/transforms/461701f60fd664f467dfc363ecc97d25/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/ishara/.gradle/caches/8.9/transforms/bb7a29bdd55b6a03fca374a1a9b5d27e/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/ishara/.gradle/caches/8.9/transforms/bb7a29bdd55b6a03fca374a1a9b5d27e/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.3] /Users/ishara/.gradle/caches/8.9/transforms/2b2cc2a8405269af0ad37547a7b03c31/transformed/activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] /Users/ishara/.gradle/caches/8.9/transforms/2b2cc2a8405269af0ad37547a7b03c31/transformed/activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] /Users/ishara/.gradle/caches/8.9/transforms/518cfb3fe8c2e4cdb279a3af4718a432/transformed/activity-ktx-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] /Users/ishara/.gradle/caches/8.9/transforms/518cfb3fe8c2e4cdb279a3af4718a432/transformed/activity-ktx-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/a64a41dc1e9afc9d82c67fab61b56a5a/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/a64a41dc1e9afc9d82c67fab61b56a5a/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/768e4570c40dc4388c1d00951748d9d3/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/768e4570c40dc4388c1d00951748d9d3/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/cf3d40137376c6672146f78d7ec1ecb4/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/cf3d40137376c6672146f78d7ec1ecb4/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/027abdde00a39e25f4adbebf1baf9070/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/027abdde00a39e25f4adbebf1baf9070/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/7651a00300c6c579cf74ff5b49ba8fe1/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/7651a00300c6c579cf74ff5b49ba8fe1/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/a3e1b1bcc2891f15db50badcdaefe3ad/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/a3e1b1bcc2891f15db50badcdaefe3ad/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/ed144e56b237c7cbce5ab287d657d840/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/ed144e56b237c7cbce5ab287d657d840/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/bd82356488b01c3d84d5b8a4a218480a/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/bd82356488b01c3d84d5b8a4a218480a/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/6eeb9f9df177edb2e638a5c7d29cebd0/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/6eeb9f9df177edb2e638a5c7d29cebd0/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/5e9c1818a04661e0ece2d4d326cef8bc/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/5e9c1818a04661e0ece2d4d326cef8bc/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/139fc018f5077215bd8a7c67e3e49069/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/139fc018f5077215bd8a7c67e3e49069/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/b4b851c956b8edfa373bc56feecc5378/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/b4b851c956b8edfa373bc56feecc5378/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/af75e651d24ca2ff7cafb5e320d9c442/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/af75e651d24ca2ff7cafb5e320d9c442/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/21a44a0638c6cf9d65269dbebde9f928/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/21a44a0638c6cf9d65269dbebde9f928/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/b9cf5ee59110f6690e237ac9e777342c/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/b9cf5ee59110f6690e237ac9e777342c/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/c0c14f7c4975332a3dc89c67af4fb9ef/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/c0c14f7c4975332a3dc89c67af4fb9ef/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] /Users/ishara/.gradle/caches/8.9/transforms/aab6fb0570ff18773e86c25658085a24/transformed/activity-compose-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] /Users/ishara/.gradle/caches/8.9/transforms/aab6fb0570ff18773e86c25658085a24/transformed/activity-compose-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/712f421c61754367e4d6cf63009d18bb/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/712f421c61754367e4d6cf63009d18bb/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/d79cabeef606013cbf435f9c4d61626e/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/d79cabeef606013cbf435f9c4d61626e/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/96e31cc370fff23d0c3567550e360399/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/96e31cc370fff23d0c3567550e360399/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/6854dad054351a1f8cd2e1f47301b18d/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/6854dad054351a1f8cd2e1f47301b18d/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/5db297ecfadc58c327f2d33402346e7f/transformed/lifecycle-service-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/5db297ecfadc58c327f2d33402346e7f/transformed/lifecycle-service-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/0800786548b3c1d091ebf58f7c846862/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/0800786548b3c1d091ebf58f7c846862/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/a458e504708b9a5bb4a66a551f1972a8/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/a458e504708b9a5bb4a66a551f1972a8/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/8ae0591d533999c1e22ddbd3d67acae2/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/8ae0591d533999c1e22ddbd3d67acae2/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/f1eb18f8057edb56d8bb95197a1a289d/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/f1eb18f8057edb56d8bb95197a1a289d/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/c25d9cf9de889fc21511c3644b7f75b6/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/c25d9cf9de889fc21511c3644b7f75b6/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ishara/.gradle/caches/8.9/transforms/1a69734368ec6a1f63d8f8eb1b877b37/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ishara/.gradle/caches/8.9/transforms/1a69734368ec6a1f63d8f8eb1b877b37/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ishara/.gradle/caches/8.9/transforms/6c543351579274f80d7d6cf3bfc2b5bb/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ishara/.gradle/caches/8.9/transforms/6c543351579274f80d7d6cf3bfc2b5bb/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/838d4e6c668a6d2d0b7961ee7760e649/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/838d4e6c668a6d2d0b7961ee7760e649/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/9c66d3c5d783df9582f8fa5e905cad13/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/9c66d3c5d783df9582f8fa5e905cad13/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/d73041097d371ca9b26b1c0d10afdc69/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/d73041097d371ca9b26b1c0d10afdc69/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/0437cd831b7ed6aa6a87b006f814e28f/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/0437cd831b7ed6aa6a87b006f814e28f/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/3c4ec469946c7b81ab207899090b6324/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/3c4ec469946c7b81ab207899090b6324/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/3c410fe1e69573a0b8e785ff4dfcbd5f/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/3c410fe1e69573a0b8e785ff4dfcbd5f/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/eeaf596ece642dd535bcd762507dbd64/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/eeaf596ece642dd535bcd762507dbd64/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/4f226f0b34b50c1efc603e741e183b25/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/4f226f0b34b50c1efc603e741e183b25/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/4464ab42c12a92e91fb2b7bee61158ba/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/4464ab42c12a92e91fb2b7bee61158ba/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/ishara/.gradle/caches/8.9/transforms/c0d826a91164abb28b9b3240ffe1a735/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/ishara/.gradle/caches/8.9/transforms/c0d826a91164abb28b9b3240ffe1a735/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/d397a60aa5aa3dffd207504e7e820d2d/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/d397a60aa5aa3dffd207504e7e820d2d/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/0bb915bd5a417fade4cb397b968067e1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/0bb915bd5a417fade4cb397b968067e1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ishara/.gradle/caches/8.9/transforms/f7198f22018cde463532d6269d8a5b8f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ishara/.gradle/caches/8.9/transforms/f7198f22018cde463532d6269d8a5b8f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ishara/.gradle/caches/8.9/transforms/eea5e33514b84aebf650711044451d79/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ishara/.gradle/caches/8.9/transforms/eea5e33514b84aebf650711044451d79/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/6ac60418e596be2c205b4c9971d5a6fc/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/6ac60418e596be2c205b4c9971d5a6fc/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/f38304e49d67a0178184c7d98047e977/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/f38304e49d67a0178184c7d98047e977/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/ishara/.gradle/caches/8.9/transforms/c615b36fb44d7ab1db9c143e2b70a63b/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/ishara/.gradle/caches/8.9/transforms/c615b36fb44d7ab1db9c143e2b70a63b/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/ishara/.gradle/caches/8.9/transforms/9fbc9288b684222915d64f2a8a45f4fb/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/ishara/.gradle/caches/8.9/transforms/9fbc9288b684222915d64f2a8a45f4fb/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/9c69b26d30a5d64513b2b93cc8e6124b/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/9c69b26d30a5d64513b2b93cc8e6124b/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/4491d86485abbca970ccb46bc4d5759a/transformed/core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/4491d86485abbca970ccb46bc4d5759a/transformed/core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/e1641eccc5f560591dc17797344c1132/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/e1641eccc5f560591dc17797344c1132/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/6b71d1952c48eecb6f3ae6793bf4cc99/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/6b71d1952c48eecb6f3ae6793bf4cc99/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/ishara/.gradle/caches/8.9/transforms/ab69e7e0fc58b1f81b32067a2493f30b/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/ishara/.gradle/caches/8.9/transforms/ab69e7e0fc58b1f81b32067a2493f30b/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ishara/.gradle/caches/8.9/transforms/25cac9d896d2c489ba85dc4b6ba9d0b6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ishara/.gradle/caches/8.9/transforms/25cac9d896d2c489ba85dc4b6ba9d0b6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/ishara/.gradle/caches/8.9/transforms/23917f27bfa554f0706338fc6543041e/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/ishara/.gradle/caches/8.9/transforms/23917f27bfa554f0706338fc6543041e/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] /Users/ishara/.gradle/caches/8.9/transforms/6e305a4d9a285453a763928968bfa156/transformed/tracing-ktx-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] /Users/ishara/.gradle/caches/8.9/transforms/6e305a4d9a285453a763928968bfa156/transformed/tracing-ktx-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/ishara/.gradle/caches/8.9/transforms/11959784975c9b05b08a0eb74d94e278/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/ishara/.gradle/caches/8.9/transforms/11959784975c9b05b08a0eb74d94e278/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/ishara/.gradle/caches/8.9/transforms/ee52b7040b7580ec24a10dbb9607d4e1/transformed/transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/ishara/.gradle/caches/8.9/transforms/ee52b7040b7580ec24a10dbb9607d4e1/transformed/transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/ishara/.gradle/caches/8.9/transforms/d6515091811fb3b55cfd05b05fec4f64/transformed/firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/ishara/.gradle/caches/8.9/transforms/d6515091811fb3b55cfd05b05fec4f64/transformed/firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/ishara/.gradle/caches/8.9/transforms/623e5d5861f23b74c9219d7280fbb489/transformed/firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/ishara/.gradle/caches/8.9/transforms/623e5d5861f23b74c9219d7280fbb489/transformed/firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/3651dc072d3c4a8f2c181a3838be0f24/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/3651dc072d3c4a8f2c181a3838be0f24/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ishara/.gradle/caches/8.9/transforms/e818d45a64f7b35b5bc6cd47dd054e23/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ishara/.gradle/caches/8.9/transforms/e818d45a64f7b35b5bc6cd47dd054e23/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/ishara/.gradle/caches/8.9/transforms/d2e7e65177852a82ed6ab0fa938d4352/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/ishara/.gradle/caches/8.9/transforms/d2e7e65177852a82ed6ab0fa938d4352/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ishara/.gradle/caches/8.9/transforms/de02009a10e601c4c11340c69fef2216/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ishara/.gradle/caches/8.9/transforms/de02009a10e601c4c11340c69fef2216/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/a280cddc35ac99edb7a5d48a8ea656d0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ishara/.gradle/caches/8.9/transforms/a280cddc35ac99edb7a5d48a8ea656d0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/ishara/.gradle/caches/8.9/transforms/f426afa2872b4f5aa6e7a3209a7f692e/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/ishara/.gradle/caches/8.9/transforms/f426afa2872b4f5aa6e7a3209a7f692e/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/ishara/.gradle/caches/8.9/transforms/59992a1aafe9631d20a74c11bc7c981e/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/ishara/.gradle/caches/8.9/transforms/59992a1aafe9631d20a74c11bc7c981e/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/ishara/.gradle/caches/8.9/transforms/bf28f523c50aa9cf323e84f94adb3e93/transformed/image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/ishara/.gradle/caches/8.9/transforms/bf28f523c50aa9cf323e84f94adb3e93/transformed/image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/14aeef61bc3ee7c9fe058849233e012f/transformed/play-services-ads-23.6.0/AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-core:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/0b9641fba2e378d82ddb7a74336b0f24/transformed/camera-core-1.4.0/AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-core:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/0b9641fba2e378d82ddb7a74336b0f24/transformed/camera-core-1.4.0/AndroidManifest.xml:29:9-33:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:29:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:26:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:28:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:25:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:30:13-32:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:31:17-103
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/ishara/.gradle/caches/8.9/transforms/e4d4cbc364f7a6b6d112d7dd73098f4c/transformed/vision-common-17.3.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/ishara/.gradle/caches/8.9/transforms/e4d4cbc364f7a6b6d112d7dd73098f4c/transformed/vision-common-17.3.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:13:17-120
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:17.3.0] /Users/ishara/.gradle/caches/8.9/transforms/e4d4cbc364f7a6b6d112d7dd73098f4c/transformed/vision-common-17.3.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:17.3.0] /Users/ishara/.gradle/caches/8.9/transforms/e4d4cbc364f7a6b6d112d7dd73098f4c/transformed/vision-common-17.3.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:17.3.0] /Users/ishara/.gradle/caches/8.9/transforms/e4d4cbc364f7a6b6d112d7dd73098f4c/transformed/vision-common-17.3.0/AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/ishara/.gradle/caches/8.9/transforms/65147191208140426ab675a0ffa85528/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/ishara/.gradle/caches/8.9/transforms/65147191208140426ab675a0ffa85528/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/ishara/.gradle/caches/8.9/transforms/65147191208140426ab675a0ffa85528/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/ishara/.gradle/caches/8.9/transforms/65147191208140426ab675a0ffa85528/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:19-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/ishara/.gradle/caches/8.9/transforms/23bb66e42a696bc91c30b5d6e39e8398/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/ishara/.gradle/caches/8.9/transforms/23bb66e42a696bc91c30b5d6e39e8398/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:25:22-76
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/ishara/.gradle/caches/8.9/transforms/b4766ab1be19d566def6055e0fb59012/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/ishara/.gradle/caches/8.9/transforms/b4766ab1be19d566def6055e0fb59012/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/ishara/.gradle/caches/8.9/transforms/23bb66e42a696bc91c30b5d6e39e8398/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/ishara/.gradle/caches/8.9/transforms/23bb66e42a696bc91c30b5d6e39e8398/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:26:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:27:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:27:22-79
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:28:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:28:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_TOPICS
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:29:5-83
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:29:22-80
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:30:5-32:31
+REJECTED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:27:5-81
+	tools:node
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:32:9-28
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:31:9-65
+queries
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:35:5-68:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:38:9-44:18
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:39:13-65
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:39:21-62
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:41:13-74
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:41:23-71
+data
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:43:13-44
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:43:19-41
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:47:9-49:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:48:13-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:48:21-87
+intent#action:name:android.intent.action.INSERT+data:mimeType:vnd.android.cursor.dir/event
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:52:9-56:18
+action#android.intent.action.INSERT
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:53:13-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:53:21-64
+intent#action:name:android.intent.action.VIEW+data:scheme:sms
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:57:9-61:18
+intent#action:name:android.intent.action.DIAL+data:path:tel:
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:62:9-66:18
+action#android.intent.action.DIAL
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:63:13-65
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:63:21-62
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:73:9-78:43
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:76:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:78:13-40
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:75:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:77:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:74:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:80:9-85:43
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:82:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:83:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:85:13-40
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:84:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:81:13-76
+service#com.google.android.gms.ads.AdService
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:87:9-91:43
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:89:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:90:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:91:13-40
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:88:13-64
+activity#com.google.android.gms.ads.OutOfContextTestingActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:93:9-97:43
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:96:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:97:13-40
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:95:13-122
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:94:13-82
+activity#com.google.android.gms.ads.NotificationHandlerActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:98:9-105:43
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:100:13-46
+	android:launchMode
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:102:13-44
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:101:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:105:13-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:104:13-72
+	android:taskAffinity
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:103:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:99:13-82
+property#android.adservices.AD_SERVICES_CONFIG
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:107:9-109:62
+	android:resource
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:109:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:108:13-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/ishara/.gradle/caches/8.9/transforms/23bb66e42a696bc91c30b5d6e39e8398/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/ishara/.gradle/caches/8.9/transforms/23bb66e42a696bc91c30b5d6e39e8398/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/ishara/.gradle/caches/8.9/transforms/2b39866b02fac8d30a46e78f90d46188/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/ishara/.gradle/caches/8.9/transforms/2b39866b02fac8d30a46e78f90d46188/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/ishara/.gradle/caches/8.9/transforms/2b39866b02fac8d30a46e78f90d46188/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/b9cf5ee59110f6690e237ac9e777342c/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/b9cf5ee59110f6690e237ac9e777342c/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/b9cf5ee59110f6690e237ac9e777342c/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/c0c14f7c4975332a3dc89c67af4fb9ef/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/c0c14f7c4975332a3dc89c67af4fb9ef/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/c0c14f7c4975332a3dc89c67af4fb9ef/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:28:22-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/d79cabeef606013cbf435f9c4d61626e/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/d79cabeef606013cbf435f9c4d61626e/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/96e31cc370fff23d0c3567550e360399/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/96e31cc370fff23d0c3567550e360399/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ishara/.gradle/caches/8.9/transforms/25cac9d896d2c489ba85dc4b6ba9d0b6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ishara/.gradle/caches/8.9/transforms/25cac9d896d2c489ba85dc4b6ba9d0b6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:35:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:33:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:32:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:140:25-85
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/d79cabeef606013cbf435f9c4d61626e/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/d79cabeef606013cbf435f9c4d61626e/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/d79cabeef606013cbf435f9c4d61626e/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/96e31cc370fff23d0c3567550e360399/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/96e31cc370fff23d0c3567550e360399/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/96e31cc370fff23d0c3567550e360399/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/f38304e49d67a0178184c7d98047e977/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/f38304e49d67a0178184c7d98047e977/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/f38304e49d67a0178184c7d98047e977/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+permission#com.pixeleye.qrscanner.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/f38304e49d67a0178184c7d98047e977/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/f38304e49d67a0178184c7d98047e977/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/f38304e49d67a0178184c7d98047e977/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/f38304e49d67a0178184c7d98047e977/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/f38304e49d67a0178184c7d98047e977/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+uses-permission#com.pixeleye.qrscanner.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/f38304e49d67a0178184c7d98047e977/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/ishara/.gradle/caches/8.9/transforms/f38304e49d67a0178184c7d98047e977/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/ishara/.gradle/caches/8.9/transforms/9fbc9288b684222915d64f2a8a45f4fb/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/ishara/.gradle/caches/8.9/transforms/9fbc9288b684222915d64f2a8a45f4fb/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/ishara/.gradle/caches/8.9/transforms/9fbc9288b684222915d64f2a8a45f4fb/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /Users/ishara/.gradle/caches/8.9/transforms/d2e7e65177852a82ed6ab0fa938d4352/transformed/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/ishara/.gradle/caches/8.9/transforms/d2e7e65177852a82ed6ab0fa938d4352/transformed/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/ishara/.gradle/caches/8.9/transforms/d2e7e65177852a82ed6ab0fa938d4352/transformed/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/ishara/.gradle/caches/8.9/transforms/d2e7e65177852a82ed6ab0fa938d4352/transformed/room-runtime-2.2.5/AndroidManifest.xml:26:13-74

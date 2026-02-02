@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QR Scanner</string>
+    <string name="camera_permission_required">Camera permission is required to scan QR codes</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="scan_result">Scan Result</string>
+    <string name="open_url">Open URL</string>
+    <string name="close">Close</string>
+    <string name="copied">Copied to clipboard</string>
+    <string name="copy">Copy</string>
+</resources>

@@ -1,0 +1,4 @@
+#Mon Feb 02 22:50:08 IST 2026
+base.0=/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
