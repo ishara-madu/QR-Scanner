@@ -1,0 +1,4 @@
+#Mon Feb 02 23:41:45 IST 2026
+base.0=/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/build/intermediates/dex/debugAndroidTest/minifyDebugAndroidTestWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,10 @@
+# The proguard configuration file for the following section is <unknown>
+-dontoptimize
+-keep class * {*;}
+-keep interface * {*;}
+-keep enum * {*;}
+-keepattributes *
+# End of content from <unknown>
+# The proguard configuration file for the following section is <unknown>
+-applymapping "/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/build/outputs/mapping/debug/mapping.txt"
+# End of content from <unknown>

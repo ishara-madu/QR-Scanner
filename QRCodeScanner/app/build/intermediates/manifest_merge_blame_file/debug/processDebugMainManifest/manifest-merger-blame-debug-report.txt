@@ -136,486 +136,485 @@
 76-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:19:9-54
 77        android:supportsRtl="true"
 77-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:20:9-35
-78        android:testOnly="true"
-79        android:theme="@style/Theme.QRCodeScanner" >
-79-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:21:9-51
-80
-81        <!-- AdMob App ID (Sample) -->
-82        <meta-data
-82-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:25:9-27:69
-83            android:name="com.google.android.gms.ads.APPLICATION_ID"
-83-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:26:13-69
-84            android:value="ca-app-pub-3679572083540798~1537530956" />
-84-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:27:13-67
-85
-86        <!-- Trigger ML Kit model download -->
-87        <meta-data
-87-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:30:9-32:39
-88            android:name="com.google.mlkit.vision.DEPENDENCIES"
-88-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:31:13-64
-89            android:value="barcode" />
-89-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:32:13-36
-90
-91        <activity
-91-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:33:9-41:20
-92            android:name="com.pixeleye.qrscanner.MainActivity"
-92-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:34:13-41
-93            android:exported="true"
-93-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:35:13-36
-94            android:theme="@style/Theme.QRCodeScanner" >
-94-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:36:13-55
-95            <intent-filter>
-95-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:37:13-40:29
-96                <action android:name="android.intent.action.MAIN" />
-96-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:38:17-69
-96-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:38:25-66
-97
-98                <category android:name="android.intent.category.LAUNCHER" />
-98-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:39:17-77
-98-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:39:27-74
-99            </intent-filter>
-100        </activity>
-101
-102        <service
-102-->[androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:24:9-33:19
-103            android:name="androidx.camera.core.impl.MetadataHolderService"
-103-->[androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:25:13-75
-104            android:enabled="false"
-104-->[androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:26:13-36
-105            android:exported="false" >
-105-->[androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:27:13-37
-106            <meta-data
-106-->[androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:30:13-32:89
-107                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
-107-->[androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:31:17-103
-108                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
-108-->[androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:32:17-86
-109        </service>
-110        <service
-110-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:9:9-15:19
-111            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
-111-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:10:13-91
-112            android:directBootAware="true"
-112-->[com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:17:13-43
-113            android:exported="false" >
-113-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:11:13-37
-114            <meta-data
-114-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:12:13-14:85
-115                android:name="com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar"
-115-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:13:17-120
-116                android:value="com.google.firebase.components.ComponentRegistrar" />
-116-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:14:17-82
-117            <meta-data
-117-->[com.google.mlkit:vision-common:17.3.0] /Users/ishara/.gradle/caches/8.9/transforms/e4d4cbc364f7a6b6d112d7dd73098f4c/transformed/vision-common-17.3.0/AndroidManifest.xml:12:13-14:85
-118                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
-118-->[com.google.mlkit:vision-common:17.3.0] /Users/ishara/.gradle/caches/8.9/transforms/e4d4cbc364f7a6b6d112d7dd73098f4c/transformed/vision-common-17.3.0/AndroidManifest.xml:13:17-124
-119                android:value="com.google.firebase.components.ComponentRegistrar" />
-119-->[com.google.mlkit:vision-common:17.3.0] /Users/ishara/.gradle/caches/8.9/transforms/e4d4cbc364f7a6b6d112d7dd73098f4c/transformed/vision-common-17.3.0/AndroidManifest.xml:14:17-82
-120            <meta-data
-120-->[com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:20:13-22:85
-121                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
-121-->[com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:21:17-120
-122                android:value="com.google.firebase.components.ComponentRegistrar" />
-122-->[com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:22:17-82
-123        </service>
-124
-125        <provider
-125-->[com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:9:9-13:38
-126            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
-126-->[com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:10:13-78
-127            android:authorities="com.pixeleye.qrscanner.mlkitinitprovider"
-127-->[com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:11:13-69
-128            android:exported="false"
-128-->[com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:12:13-37
-129            android:initOrder="99" />
-129-->[com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:13:13-35
-130
-131        <activity
-131-->[com.google.android.gms:play-services-base:18.5.0] /Users/ishara/.gradle/caches/8.9/transforms/65147191208140426ab675a0ffa85528/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:9-173
-132            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-132-->[com.google.android.gms:play-services-base:18.5.0] /Users/ishara/.gradle/caches/8.9/transforms/65147191208140426ab675a0ffa85528/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:19-85
-133            android:exported="false"
-133-->[com.google.android.gms:play-services-base:18.5.0] /Users/ishara/.gradle/caches/8.9/transforms/65147191208140426ab675a0ffa85528/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:146-170
-134            android:theme="@android:style/Theme.Translucent.NoTitleBar" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
-134-->[com.google.android.gms:play-services-base:18.5.0] /Users/ishara/.gradle/caches/8.9/transforms/65147191208140426ab675a0ffa85528/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:86-145
-135        <activity
-135-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:73:9-78:43
-136            android:name="com.google.android.gms.ads.AdActivity"
-136-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:74:13-65
-137            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-137-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:75:13-122
-138            android:exported="false"
-138-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:76:13-37
-139            android:theme="@android:style/Theme.Translucent" />
-139-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:77:13-61
-140
-141        <provider
-141-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:80:9-85:43
-142            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
-142-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:81:13-76
-143            android:authorities="com.pixeleye.qrscanner.mobileadsinitprovider"
-143-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:82:13-73
-144            android:exported="false"
-144-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:83:13-37
-145            android:initOrder="100" />
-145-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:84:13-36
-146
-147        <service
-147-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:87:9-91:43
-148            android:name="com.google.android.gms.ads.AdService"
-148-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:88:13-64
-149            android:enabled="true"
-149-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:89:13-35
-150            android:exported="false" />
-150-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:90:13-37
-151
-152        <activity
-152-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:93:9-97:43
-153            android:name="com.google.android.gms.ads.OutOfContextTestingActivity"
-153-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:94:13-82
-154            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-154-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:95:13-122
-155            android:exported="false" />
-155-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:96:13-37
-156        <activity
-156-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:98:9-105:43
-157            android:name="com.google.android.gms.ads.NotificationHandlerActivity"
-157-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:99:13-82
-158            android:excludeFromRecents="true"
-158-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:100:13-46
-159            android:exported="false"
-159-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:101:13-37
-160            android:launchMode="singleTask"
-160-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:102:13-44
-161            android:taskAffinity=""
-161-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:103:13-36
-162            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-162-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:104:13-72
-163
-164        <property
-164-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:107:9-109:62
-165            android:name="android.adservices.AD_SERVICES_CONFIG"
-165-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:108:13-65
-166            android:resource="@xml/gma_ad_services_config" />
-166-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:109:13-59
-167
-168        <meta-data
-168-->[com.google.android.gms:play-services-basement:18.4.0] /Users/ishara/.gradle/caches/8.9/transforms/2b39866b02fac8d30a46e78f90d46188/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
-169            android:name="com.google.android.gms.version"
-169-->[com.google.android.gms:play-services-basement:18.4.0] /Users/ishara/.gradle/caches/8.9/transforms/2b39866b02fac8d30a46e78f90d46188/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
-170            android:value="@integer/google_play_services_version" />
-170-->[com.google.android.gms:play-services-basement:18.4.0] /Users/ishara/.gradle/caches/8.9/transforms/2b39866b02fac8d30a46e78f90d46188/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
-171
-172        <activity
-172-->[androidx.compose.ui:ui-test-manifest:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/b9cf5ee59110f6690e237ac9e777342c/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:23:9-25:39
-173            android:name="androidx.activity.ComponentActivity"
-173-->[androidx.compose.ui:ui-test-manifest:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/b9cf5ee59110f6690e237ac9e777342c/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:24:13-63
-174            android:exported="true" />
-174-->[androidx.compose.ui:ui-test-manifest:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/b9cf5ee59110f6690e237ac9e777342c/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:25:13-36
-175        <activity
-175-->[androidx.compose.ui:ui-tooling-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/c0c14f7c4975332a3dc89c67af4fb9ef/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
-176            android:name="androidx.compose.ui.tooling.PreviewActivity"
-176-->[androidx.compose.ui:ui-tooling-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/c0c14f7c4975332a3dc89c67af4fb9ef/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
-177            android:exported="true" />
-177-->[androidx.compose.ui:ui-tooling-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/c0c14f7c4975332a3dc89c67af4fb9ef/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
-178
-179        <provider
-179-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:31:9-39:20
-180            android:name="androidx.startup.InitializationProvider"
-180-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:32:13-67
-181            android:authorities="com.pixeleye.qrscanner.androidx-startup"
-181-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:33:13-68
-182            android:exported="false" >
-182-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:34:13-37
-183            <meta-data
-183-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:36:13-38:52
-184                android:name="androidx.work.WorkManagerInitializer"
-184-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:37:17-68
-185                android:value="androidx.startup" />
-185-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:38:17-49
-186            <meta-data
-186-->[androidx.emoji2:emoji2:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/d79cabeef606013cbf435f9c4d61626e/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
-187                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-187-->[androidx.emoji2:emoji2:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/d79cabeef606013cbf435f9c4d61626e/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
-188                android:value="androidx.startup" />
-188-->[androidx.emoji2:emoji2:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/d79cabeef606013cbf435f9c4d61626e/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
-189            <meta-data
-189-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/96e31cc370fff23d0c3567550e360399/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
-190                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-190-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/96e31cc370fff23d0c3567550e360399/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
-191                android:value="androidx.startup" />
-191-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/96e31cc370fff23d0c3567550e360399/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
-192            <meta-data
-192-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
-193                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-193-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
-194                android:value="androidx.startup" />
-194-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
-195        </provider>
-196
-197        <service
-197-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:41:9-46:35
-198            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
-198-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:42:13-88
-199            android:directBootAware="false"
-199-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:43:13-44
-200            android:enabled="@bool/enable_system_alarm_service_default"
-200-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:44:13-72
-201            android:exported="false" />
-201-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:45:13-37
-202        <service
-202-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:47:9-53:35
-203            android:name="androidx.work.impl.background.systemjob.SystemJobService"
-203-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:48:13-84
-204            android:directBootAware="false"
-204-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:49:13-44
-205            android:enabled="@bool/enable_system_job_service_default"
-205-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:50:13-70
-206            android:exported="true"
-206-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:51:13-36
-207            android:permission="android.permission.BIND_JOB_SERVICE" />
-207-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:52:13-69
-208        <service
-208-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:54:9-59:35
-209            android:name="androidx.work.impl.foreground.SystemForegroundService"
-209-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:55:13-81
-210            android:directBootAware="false"
-210-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:56:13-44
-211            android:enabled="@bool/enable_system_foreground_service_default"
-211-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:57:13-77
-212            android:exported="false" />
-212-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:58:13-37
-213
-214        <receiver
-214-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:61:9-66:35
-215            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
-215-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:62:13-88
-216            android:directBootAware="false"
-216-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:63:13-44
-217            android:enabled="true"
-217-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:64:13-35
-218            android:exported="false" />
-218-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:65:13-37
-219        <receiver
-219-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:67:9-77:20
-220            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
-220-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:68:13-106
-221            android:directBootAware="false"
-221-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:69:13-44
-222            android:enabled="false"
-222-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:70:13-36
-223            android:exported="false" >
-223-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:71:13-37
-224            <intent-filter>
-224-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:73:13-76:29
-225                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
-225-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:74:17-87
-225-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:74:25-84
-226                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
-226-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:75:17-90
-226-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:75:25-87
-227            </intent-filter>
-228        </receiver>
-229        <receiver
-229-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:78:9-88:20
-230            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
-230-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:79:13-104
-231            android:directBootAware="false"
-231-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:80:13-44
-232            android:enabled="false"
-232-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:81:13-36
-233            android:exported="false" >
-233-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:82:13-37
-234            <intent-filter>
-234-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:84:13-87:29
-235                <action android:name="android.intent.action.BATTERY_OKAY" />
-235-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:85:17-77
-235-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:85:25-74
-236                <action android:name="android.intent.action.BATTERY_LOW" />
-236-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:86:17-76
-236-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:86:25-73
-237            </intent-filter>
-238        </receiver>
-239        <receiver
-239-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:89:9-99:20
-240            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
-240-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:90:13-104
-241            android:directBootAware="false"
-241-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:91:13-44
-242            android:enabled="false"
-242-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:92:13-36
-243            android:exported="false" >
-243-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:93:13-37
-244            <intent-filter>
-244-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:95:13-98:29
-245                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
-245-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:96:17-83
-245-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:96:25-80
-246                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
-246-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:97:17-82
-246-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:97:25-79
-247            </intent-filter>
-248        </receiver>
-249        <receiver
-249-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:100:9-109:20
-250            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
-250-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:101:13-103
-251            android:directBootAware="false"
-251-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:102:13-44
-252            android:enabled="false"
-252-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:103:13-36
-253            android:exported="false" >
-253-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:104:13-37
-254            <intent-filter>
-254-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:106:13-108:29
-255                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
-255-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:107:17-79
-255-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:107:25-76
-256            </intent-filter>
-257        </receiver>
-258        <receiver
-258-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:110:9-121:20
-259            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
-259-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:111:13-88
-260            android:directBootAware="false"
-260-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:112:13-44
-261            android:enabled="false"
-261-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:113:13-36
-262            android:exported="false" >
-262-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:114:13-37
-263            <intent-filter>
-263-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:116:13-120:29
-264                <action android:name="android.intent.action.BOOT_COMPLETED" />
-264-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:117:17-79
-264-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:117:25-76
-265                <action android:name="android.intent.action.TIME_SET" />
-265-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:118:17-73
-265-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:118:25-70
-266                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
-266-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:119:17-81
-266-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:119:25-78
-267            </intent-filter>
-268        </receiver>
-269        <receiver
-269-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:122:9-131:20
-270            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
-270-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:123:13-99
-271            android:directBootAware="false"
-271-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:124:13-44
-272            android:enabled="@bool/enable_system_alarm_service_default"
-272-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:125:13-72
-273            android:exported="false" >
-273-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:126:13-37
-274            <intent-filter>
-274-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:128:13-130:29
-275                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
-275-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:129:17-98
-275-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:129:25-95
-276            </intent-filter>
-277        </receiver>
-278        <receiver
-278-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:132:9-142:20
-279            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
-279-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:133:13-78
-280            android:directBootAware="false"
-280-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:134:13-44
-281            android:enabled="true"
-281-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:135:13-35
-282            android:exported="true"
-282-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:136:13-36
-283            android:permission="android.permission.DUMP" >
-283-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:137:13-57
-284            <intent-filter>
-284-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:139:13-141:29
-285                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
-285-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:140:17-88
-285-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:140:25-85
-286            </intent-filter>
-287        </receiver>
-288
-289        <uses-library
-289-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/ishara/.gradle/caches/8.9/transforms/9fbc9288b684222915d64f2a8a45f4fb/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
-290            android:name="android.ext.adservices"
-290-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/ishara/.gradle/caches/8.9/transforms/9fbc9288b684222915d64f2a8a45f4fb/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
-291            android:required="false" />
-291-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/ishara/.gradle/caches/8.9/transforms/9fbc9288b684222915d64f2a8a45f4fb/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
-292
-293        <receiver
-293-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
-294            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-294-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
-295            android:directBootAware="false"
-295-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
-296            android:enabled="true"
-296-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
-297            android:exported="true"
-297-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
-298            android:permission="android.permission.DUMP" >
-298-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
-299            <intent-filter>
-299-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
-300                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-300-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
-300-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
-301            </intent-filter>
-302            <intent-filter>
-302-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
-303                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-303-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
-303-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
-304            </intent-filter>
-305            <intent-filter>
-305-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
-306                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-306-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
-306-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
-307            </intent-filter>
-308            <intent-filter>
-308-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
-309                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-309-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
-309-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
-310            </intent-filter>
-311        </receiver>
-312
-313        <service
-313-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
-314            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-314-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
-315            android:exported="false" >
-315-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
-316            <meta-data
-316-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
-317                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-317-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
-318                android:value="cct" />
-318-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
-319        </service>
-320        <service
-320-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
-321            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-321-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
-322            android:exported="false"
-322-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
-323            android:permission="android.permission.BIND_JOB_SERVICE" >
-323-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
-324        </service>
-325
-326        <receiver
-326-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
-327            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-327-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
-328            android:exported="false" />
-328-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
-329
-330        <service
-330-->[androidx.room:room-runtime:2.2.5] /Users/ishara/.gradle/caches/8.9/transforms/d2e7e65177852a82ed6ab0fa938d4352/transformed/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
-331            android:name="androidx.room.MultiInstanceInvalidationService"
-331-->[androidx.room:room-runtime:2.2.5] /Users/ishara/.gradle/caches/8.9/transforms/d2e7e65177852a82ed6ab0fa938d4352/transformed/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
-332            android:directBootAware="true"
-332-->[androidx.room:room-runtime:2.2.5] /Users/ishara/.gradle/caches/8.9/transforms/d2e7e65177852a82ed6ab0fa938d4352/transformed/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
-333            android:exported="false" />
-333-->[androidx.room:room-runtime:2.2.5] /Users/ishara/.gradle/caches/8.9/transforms/d2e7e65177852a82ed6ab0fa938d4352/transformed/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
-334    </application>
-335
-336</manifest>
+78        android:theme="@style/Theme.QRCodeScanner" >
+78-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:21:9-51
+79
+80        <!-- AdMob App ID (Sample) -->
+81        <meta-data
+81-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:25:9-27:69
+82            android:name="com.google.android.gms.ads.APPLICATION_ID"
+82-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:26:13-69
+83            android:value="ca-app-pub-3679572083540798~1537530956" />
+83-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:27:13-67
+84
+85        <!-- Trigger ML Kit model download -->
+86        <meta-data
+86-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:30:9-32:39
+87            android:name="com.google.mlkit.vision.DEPENDENCIES"
+87-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:31:13-64
+88            android:value="barcode" />
+88-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:32:13-36
+89
+90        <activity
+90-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:33:9-41:20
+91            android:name="com.pixeleye.qrscanner.MainActivity"
+91-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:34:13-41
+92            android:exported="true"
+92-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:35:13-36
+93            android:theme="@style/Theme.QRCodeScanner" >
+93-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:36:13-55
+94            <intent-filter>
+94-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:37:13-40:29
+95                <action android:name="android.intent.action.MAIN" />
+95-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:38:17-69
+95-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:38:25-66
+96
+97                <category android:name="android.intent.category.LAUNCHER" />
+97-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:39:17-77
+97-->/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/src/main/AndroidManifest.xml:39:27-74
+98            </intent-filter>
+99        </activity>
+100
+101        <service
+101-->[androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:24:9-33:19
+102            android:name="androidx.camera.core.impl.MetadataHolderService"
+102-->[androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:25:13-75
+103            android:enabled="false"
+103-->[androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:26:13-36
+104            android:exported="false" >
+104-->[androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:27:13-37
+105            <meta-data
+105-->[androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:30:13-32:89
+106                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+106-->[androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:31:17-103
+107                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+107-->[androidx.camera:camera-camera2:1.4.0] /Users/ishara/.gradle/caches/8.9/transforms/af314f8b305bc05233fad582aed8b02f/transformed/camera-camera2-1.4.0/AndroidManifest.xml:32:17-86
+108        </service>
+109        <service
+109-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:9:9-15:19
+110            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+110-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:10:13-91
+111            android:directBootAware="true"
+111-->[com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:17:13-43
+112            android:exported="false" >
+112-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:11:13-37
+113            <meta-data
+113-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:12:13-14:85
+114                android:name="com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar"
+114-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:13:17-120
+115                android:value="com.google.firebase.components.ComponentRegistrar" />
+115-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/ishara/.gradle/caches/8.9/transforms/4eb4ace58b5fb841729d2505c6a26f20/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:14:17-82
+116            <meta-data
+116-->[com.google.mlkit:vision-common:17.3.0] /Users/ishara/.gradle/caches/8.9/transforms/e4d4cbc364f7a6b6d112d7dd73098f4c/transformed/vision-common-17.3.0/AndroidManifest.xml:12:13-14:85
+117                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+117-->[com.google.mlkit:vision-common:17.3.0] /Users/ishara/.gradle/caches/8.9/transforms/e4d4cbc364f7a6b6d112d7dd73098f4c/transformed/vision-common-17.3.0/AndroidManifest.xml:13:17-124
+118                android:value="com.google.firebase.components.ComponentRegistrar" />
+118-->[com.google.mlkit:vision-common:17.3.0] /Users/ishara/.gradle/caches/8.9/transforms/e4d4cbc364f7a6b6d112d7dd73098f4c/transformed/vision-common-17.3.0/AndroidManifest.xml:14:17-82
+119            <meta-data
+119-->[com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:20:13-22:85
+120                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+120-->[com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:21:17-120
+121                android:value="com.google.firebase.components.ComponentRegistrar" />
+121-->[com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:22:17-82
+122        </service>
+123
+124        <provider
+124-->[com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:9:9-13:38
+125            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+125-->[com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:10:13-78
+126            android:authorities="com.pixeleye.qrscanner.mlkitinitprovider"
+126-->[com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:11:13-69
+127            android:exported="false"
+127-->[com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:12:13-37
+128            android:initOrder="99" />
+128-->[com.google.mlkit:common:18.11.0] /Users/ishara/.gradle/caches/8.9/transforms/12d6714cea568cb65a72dcf7d9bb984e/transformed/common-18.11.0/AndroidManifest.xml:13:13-35
+129
+130        <activity
+130-->[com.google.android.gms:play-services-base:18.5.0] /Users/ishara/.gradle/caches/8.9/transforms/65147191208140426ab675a0ffa85528/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+131            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+131-->[com.google.android.gms:play-services-base:18.5.0] /Users/ishara/.gradle/caches/8.9/transforms/65147191208140426ab675a0ffa85528/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:19-85
+132            android:exported="false"
+132-->[com.google.android.gms:play-services-base:18.5.0] /Users/ishara/.gradle/caches/8.9/transforms/65147191208140426ab675a0ffa85528/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+133            android:theme="@android:style/Theme.Translucent.NoTitleBar" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+133-->[com.google.android.gms:play-services-base:18.5.0] /Users/ishara/.gradle/caches/8.9/transforms/65147191208140426ab675a0ffa85528/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:86-145
+134        <activity
+134-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:73:9-78:43
+135            android:name="com.google.android.gms.ads.AdActivity"
+135-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:74:13-65
+136            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+136-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:75:13-122
+137            android:exported="false"
+137-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:76:13-37
+138            android:theme="@android:style/Theme.Translucent" />
+138-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:77:13-61
+139
+140        <provider
+140-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:80:9-85:43
+141            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+141-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:81:13-76
+142            android:authorities="com.pixeleye.qrscanner.mobileadsinitprovider"
+142-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:82:13-73
+143            android:exported="false"
+143-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:83:13-37
+144            android:initOrder="100" />
+144-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:84:13-36
+145
+146        <service
+146-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:87:9-91:43
+147            android:name="com.google.android.gms.ads.AdService"
+147-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:88:13-64
+148            android:enabled="true"
+148-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:89:13-35
+149            android:exported="false" />
+149-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:90:13-37
+150
+151        <activity
+151-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:93:9-97:43
+152            android:name="com.google.android.gms.ads.OutOfContextTestingActivity"
+152-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:94:13-82
+153            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+153-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:95:13-122
+154            android:exported="false" />
+154-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:96:13-37
+155        <activity
+155-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:98:9-105:43
+156            android:name="com.google.android.gms.ads.NotificationHandlerActivity"
+156-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:99:13-82
+157            android:excludeFromRecents="true"
+157-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:100:13-46
+158            android:exported="false"
+158-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:101:13-37
+159            android:launchMode="singleTask"
+159-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:102:13-44
+160            android:taskAffinity=""
+160-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:103:13-36
+161            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+161-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:104:13-72
+162
+163        <property
+163-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:107:9-109:62
+164            android:name="android.adservices.AD_SERVICES_CONFIG"
+164-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:108:13-65
+165            android:resource="@xml/gma_ad_services_config" />
+165-->[com.google.android.gms:play-services-ads-lite:23.6.0] /Users/ishara/.gradle/caches/8.9/transforms/0eaa2fe1197839cd2863e11757f23cb9/transformed/play-services-ads-lite-23.6.0/AndroidManifest.xml:109:13-59
+166
+167        <meta-data
+167-->[com.google.android.gms:play-services-basement:18.4.0] /Users/ishara/.gradle/caches/8.9/transforms/2b39866b02fac8d30a46e78f90d46188/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+168            android:name="com.google.android.gms.version"
+168-->[com.google.android.gms:play-services-basement:18.4.0] /Users/ishara/.gradle/caches/8.9/transforms/2b39866b02fac8d30a46e78f90d46188/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
+169            android:value="@integer/google_play_services_version" />
+169-->[com.google.android.gms:play-services-basement:18.4.0] /Users/ishara/.gradle/caches/8.9/transforms/2b39866b02fac8d30a46e78f90d46188/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
+170
+171        <activity
+171-->[androidx.compose.ui:ui-test-manifest:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/b9cf5ee59110f6690e237ac9e777342c/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:23:9-25:39
+172            android:name="androidx.activity.ComponentActivity"
+172-->[androidx.compose.ui:ui-test-manifest:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/b9cf5ee59110f6690e237ac9e777342c/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:24:13-63
+173            android:exported="true" />
+173-->[androidx.compose.ui:ui-test-manifest:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/b9cf5ee59110f6690e237ac9e777342c/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:25:13-36
+174        <activity
+174-->[androidx.compose.ui:ui-tooling-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/c0c14f7c4975332a3dc89c67af4fb9ef/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+175            android:name="androidx.compose.ui.tooling.PreviewActivity"
+175-->[androidx.compose.ui:ui-tooling-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/c0c14f7c4975332a3dc89c67af4fb9ef/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+176            android:exported="true" />
+176-->[androidx.compose.ui:ui-tooling-android:1.7.6] /Users/ishara/.gradle/caches/8.9/transforms/c0c14f7c4975332a3dc89c67af4fb9ef/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+177
+178        <provider
+178-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:31:9-39:20
+179            android:name="androidx.startup.InitializationProvider"
+179-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:32:13-67
+180            android:authorities="com.pixeleye.qrscanner.androidx-startup"
+180-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:33:13-68
+181            android:exported="false" >
+181-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:34:13-37
+182            <meta-data
+182-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:36:13-38:52
+183                android:name="androidx.work.WorkManagerInitializer"
+183-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:37:17-68
+184                android:value="androidx.startup" />
+184-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:38:17-49
+185            <meta-data
+185-->[androidx.emoji2:emoji2:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/d79cabeef606013cbf435f9c4d61626e/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+186                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+186-->[androidx.emoji2:emoji2:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/d79cabeef606013cbf435f9c4d61626e/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+187                android:value="androidx.startup" />
+187-->[androidx.emoji2:emoji2:1.3.0] /Users/ishara/.gradle/caches/8.9/transforms/d79cabeef606013cbf435f9c4d61626e/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+188            <meta-data
+188-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/96e31cc370fff23d0c3567550e360399/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+189                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+189-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/96e31cc370fff23d0c3567550e360399/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+190                android:value="androidx.startup" />
+190-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/ishara/.gradle/caches/8.9/transforms/96e31cc370fff23d0c3567550e360399/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+191            <meta-data
+191-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+192                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+192-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+193                android:value="androidx.startup" />
+193-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+194        </provider>
+195
+196        <service
+196-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:41:9-46:35
+197            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+197-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:42:13-88
+198            android:directBootAware="false"
+198-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:43:13-44
+199            android:enabled="@bool/enable_system_alarm_service_default"
+199-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:44:13-72
+200            android:exported="false" />
+200-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:45:13-37
+201        <service
+201-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:47:9-53:35
+202            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+202-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:48:13-84
+203            android:directBootAware="false"
+203-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:49:13-44
+204            android:enabled="@bool/enable_system_job_service_default"
+204-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:50:13-70
+205            android:exported="true"
+205-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:51:13-36
+206            android:permission="android.permission.BIND_JOB_SERVICE" />
+206-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:52:13-69
+207        <service
+207-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:54:9-59:35
+208            android:name="androidx.work.impl.foreground.SystemForegroundService"
+208-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:55:13-81
+209            android:directBootAware="false"
+209-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:56:13-44
+210            android:enabled="@bool/enable_system_foreground_service_default"
+210-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:57:13-77
+211            android:exported="false" />
+211-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:58:13-37
+212
+213        <receiver
+213-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:61:9-66:35
+214            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+214-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:62:13-88
+215            android:directBootAware="false"
+215-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:63:13-44
+216            android:enabled="true"
+216-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:64:13-35
+217            android:exported="false" />
+217-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:65:13-37
+218        <receiver
+218-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:67:9-77:20
+219            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+219-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:68:13-106
+220            android:directBootAware="false"
+220-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:69:13-44
+221            android:enabled="false"
+221-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:70:13-36
+222            android:exported="false" >
+222-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:71:13-37
+223            <intent-filter>
+223-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:73:13-76:29
+224                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+224-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:74:17-87
+224-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:74:25-84
+225                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+225-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:75:17-90
+225-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:75:25-87
+226            </intent-filter>
+227        </receiver>
+228        <receiver
+228-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:78:9-88:20
+229            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+229-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:79:13-104
+230            android:directBootAware="false"
+230-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:80:13-44
+231            android:enabled="false"
+231-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:81:13-36
+232            android:exported="false" >
+232-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:82:13-37
+233            <intent-filter>
+233-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:84:13-87:29
+234                <action android:name="android.intent.action.BATTERY_OKAY" />
+234-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:85:17-77
+234-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:85:25-74
+235                <action android:name="android.intent.action.BATTERY_LOW" />
+235-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:86:17-76
+235-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:86:25-73
+236            </intent-filter>
+237        </receiver>
+238        <receiver
+238-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:89:9-99:20
+239            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+239-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:90:13-104
+240            android:directBootAware="false"
+240-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:91:13-44
+241            android:enabled="false"
+241-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:92:13-36
+242            android:exported="false" >
+242-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:93:13-37
+243            <intent-filter>
+243-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:95:13-98:29
+244                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+244-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:96:17-83
+244-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:96:25-80
+245                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+245-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:97:17-82
+245-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:97:25-79
+246            </intent-filter>
+247        </receiver>
+248        <receiver
+248-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:100:9-109:20
+249            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+249-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:101:13-103
+250            android:directBootAware="false"
+250-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:102:13-44
+251            android:enabled="false"
+251-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:103:13-36
+252            android:exported="false" >
+252-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:104:13-37
+253            <intent-filter>
+253-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:106:13-108:29
+254                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+254-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:107:17-79
+254-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:107:25-76
+255            </intent-filter>
+256        </receiver>
+257        <receiver
+257-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:110:9-121:20
+258            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+258-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:111:13-88
+259            android:directBootAware="false"
+259-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:112:13-44
+260            android:enabled="false"
+260-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:113:13-36
+261            android:exported="false" >
+261-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:114:13-37
+262            <intent-filter>
+262-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:116:13-120:29
+263                <action android:name="android.intent.action.BOOT_COMPLETED" />
+263-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:117:17-79
+263-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:117:25-76
+264                <action android:name="android.intent.action.TIME_SET" />
+264-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:118:17-73
+264-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:118:25-70
+265                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+265-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:119:17-81
+265-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:119:25-78
+266            </intent-filter>
+267        </receiver>
+268        <receiver
+268-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:122:9-131:20
+269            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+269-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:123:13-99
+270            android:directBootAware="false"
+270-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:124:13-44
+271            android:enabled="@bool/enable_system_alarm_service_default"
+271-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:125:13-72
+272            android:exported="false" >
+272-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:126:13-37
+273            <intent-filter>
+273-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:128:13-130:29
+274                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+274-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:129:17-98
+274-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:129:25-95
+275            </intent-filter>
+276        </receiver>
+277        <receiver
+277-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:132:9-142:20
+278            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+278-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:133:13-78
+279            android:directBootAware="false"
+279-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:134:13-44
+280            android:enabled="true"
+280-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:135:13-35
+281            android:exported="true"
+281-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:136:13-36
+282            android:permission="android.permission.DUMP" >
+282-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:137:13-57
+283            <intent-filter>
+283-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:139:13-141:29
+284                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+284-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:140:17-88
+284-->[androidx.work:work-runtime:2.7.0] /Users/ishara/.gradle/caches/8.9/transforms/1d1b687339a12816761f01937ffc1b2b/transformed/work-runtime-2.7.0/AndroidManifest.xml:140:25-85
+285            </intent-filter>
+286        </receiver>
+287
+288        <uses-library
+288-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/ishara/.gradle/caches/8.9/transforms/9fbc9288b684222915d64f2a8a45f4fb/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+289            android:name="android.ext.adservices"
+289-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/ishara/.gradle/caches/8.9/transforms/9fbc9288b684222915d64f2a8a45f4fb/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
+290            android:required="false" />
+290-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/ishara/.gradle/caches/8.9/transforms/9fbc9288b684222915d64f2a8a45f4fb/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
+291
+292        <receiver
+292-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+293            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+293-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+294            android:directBootAware="false"
+294-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+295            android:enabled="true"
+295-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+296            android:exported="true"
+296-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+297            android:permission="android.permission.DUMP" >
+297-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+298            <intent-filter>
+298-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+299                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+299-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+299-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+300            </intent-filter>
+301            <intent-filter>
+301-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+302                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+302-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+302-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+303            </intent-filter>
+304            <intent-filter>
+304-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+305                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+305-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+305-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+306            </intent-filter>
+307            <intent-filter>
+307-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+308                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+308-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+308-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ishara/.gradle/caches/8.9/transforms/d2aefd2cb89684d533696a09fb639a97/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+309            </intent-filter>
+310        </receiver>
+311
+312        <service
+312-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+313            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+313-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+314            android:exported="false" >
+314-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+315            <meta-data
+315-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+316                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+316-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+317                android:value="cct" />
+317-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ishara/.gradle/caches/8.9/transforms/efe90b4415462b6678f7e448e17f57d3/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+318        </service>
+319        <service
+319-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+320            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+320-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+321            android:exported="false"
+321-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+322            android:permission="android.permission.BIND_JOB_SERVICE" >
+322-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+323        </service>
+324
+325        <receiver
+325-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+326            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+326-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
+327            android:exported="false" />
+327-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/ishara/.gradle/caches/8.9/transforms/f1ec5ab314a1cbe683d36146ae04a929/transformed/transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+328
+329        <service
+329-->[androidx.room:room-runtime:2.2.5] /Users/ishara/.gradle/caches/8.9/transforms/d2e7e65177852a82ed6ab0fa938d4352/transformed/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+330            android:name="androidx.room.MultiInstanceInvalidationService"
+330-->[androidx.room:room-runtime:2.2.5] /Users/ishara/.gradle/caches/8.9/transforms/d2e7e65177852a82ed6ab0fa938d4352/transformed/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+331            android:directBootAware="true"
+331-->[androidx.room:room-runtime:2.2.5] /Users/ishara/.gradle/caches/8.9/transforms/d2e7e65177852a82ed6ab0fa938d4352/transformed/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+332            android:exported="false" />
+332-->[androidx.room:room-runtime:2.2.5] /Users/ishara/.gradle/caches/8.9/transforms/d2e7e65177852a82ed6ab0fa938d4352/transformed/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+333    </application>
+334
+335</manifest>

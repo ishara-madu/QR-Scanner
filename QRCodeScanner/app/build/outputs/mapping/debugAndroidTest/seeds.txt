@@ -1,0 +1,8 @@
+com.pixeleye.qrscanner.test.BuildConfig
+com.pixeleye.qrscanner.test.R
+com.pixeleye.qrscanner.test.BuildConfig: boolean DEBUG
+com.pixeleye.qrscanner.test.BuildConfig: java.lang.String BUILD_TYPE
+com.pixeleye.qrscanner.test.BuildConfig: java.lang.String APPLICATION_ID
+com.pixeleye.qrscanner.test.BuildConfig: <clinit>()
+com.pixeleye.qrscanner.test.BuildConfig: BuildConfig()
+com.pixeleye.qrscanner.test.R: R()

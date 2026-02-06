@@ -1,0 +1,13 @@
+# compiler: R8
+# compiler_version: 8.5.35
+# min_api: 26
+# common_typos_disable
+# {"id":"com.android.tools.r8.mapping","version":"2.2"}
+# pg_map_id: ce156c1
+# pg_map_hash: SHA-256 ce156c185c5c558f02144d8c26c940789497dc46b17f29aca8534260dd705d53
+com.pixeleye.qrscanner.test.BuildConfig -> com.pixeleye.qrscanner.test.BuildConfig:
+# {"id":"sourceFile","fileName":"BuildConfig.java"}
+    7:7:void <clinit>() -> <clinit>
+    6:6:void <init>() -> <init>
+com.pixeleye.qrscanner.test.R -> com.pixeleye.qrscanner.test.R:
+    0:0:void <init>() -> <init>

@@ -1,0 +1,4 @@
+com.pixeleye.qrscanner.test.app-androidTest-0 /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/build/generated/res/resValues/androidTest/debug
+com.pixeleye.qrscanner.test.app-mergeDebugAndroidTestResources-1 /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.pixeleye.qrscanner.test.app-mergeDebugAndroidTestResources-2 /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.pixeleye.qrscanner.test.app-debugAndroidTest-3 /Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

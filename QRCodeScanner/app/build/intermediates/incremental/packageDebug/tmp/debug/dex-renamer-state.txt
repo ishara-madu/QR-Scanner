@@ -1,4 +1,4 @@
-#Mon Feb 02 23:16:28 IST 2026
+#Mon Feb 02 23:40:45 IST 2026
 base.0=/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/build/intermediates/dex/debug/minifyDebugWithR8/classes.dex
 base.1=/Users/ishara/Documents/untitled folder 3/QRCodeScanner/app/build/intermediates/dex/debug/minifyDebugWithR8/classes2.dex
 path.0=classes.dex
